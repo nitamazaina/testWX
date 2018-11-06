@@ -9,37 +9,37 @@ Page({
 		navList:[
 			{
 				id:1,
-				name:'热销菜品'
+				name:'冲锋枪'
 			},
 			{
 				id:2,
-				name:'热菜'
+				name:'步枪'
 			},
 			{
 				id:3,
-				name:'凉菜'
+				name:'狙击枪'
 			},
 			{
 				id:4,
-				name:'套餐'
+				name:'配件'
 			}
 		],
 		dishesList:[
 			[
 				{
-					name:"红烧肉",
+					name:"UMP9",
 					price:38,
 					num:1,
 					id:1
 				},
 				{
-					name:"宫保鸡丁",
+					name:"UZI",
 					price:58,
 					num:1,
 					id:29
 				},
 				{
-					name:"水煮鱼",
+					name:"汤姆逊",
 					price:88,
 					num:1,
 					id:2
@@ -47,13 +47,13 @@ Page({
 			],
 			[
 				{
-					name:"小炒日本豆腐",
+					name:"M4A1",
 					price:18,
 					num:1,
 					id:3
 				},
 				{
-					name:"烤鱼",
+					name:"AKM",
 					price:58,
 					num:1,
 					id:4
@@ -61,13 +61,13 @@ Page({
 			],
 			[
 				{
-					name:"大拌菜",
+					name:"Kar98K",
 					price:18,
 					num:1,
 					id:5
 				},
 				{
-					name:"川北凉粉",
+					name:"M24",
 					price:8,
 					num:1,
 					id:6
